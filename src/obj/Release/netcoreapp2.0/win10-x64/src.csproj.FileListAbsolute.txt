@@ -1,0 +1,13 @@
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\win10-x64\src.exe
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\win10-x64\src.deps.json
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\win10-x64\src.runtimeconfig.json
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\win10-x64\src.runtimeconfig.dev.json
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\win10-x64\src.dll
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\win10-x64\src.pdb
+C:\X\KK\STFPonto\src\obj\Release\netcoreapp2.0\win10-x64\src.csproj.CoreCompileInputs.cache
+C:\X\KK\STFPonto\src\obj\Release\netcoreapp2.0\win10-x64\src.AssemblyInfoInputs.cache
+C:\X\KK\STFPonto\src\obj\Release\netcoreapp2.0\win10-x64\src.AssemblyInfo.cs
+C:\X\KK\STFPonto\src\obj\Release\netcoreapp2.0\win10-x64\src.dll
+C:\X\KK\STFPonto\src\obj\Release\netcoreapp2.0\win10-x64\src.pdb

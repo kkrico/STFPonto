@@ -1,0 +1,10 @@
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\src.deps.json
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\src.runtimeconfig.json
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\src.runtimeconfig.dev.json
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\src.dll
+C:\X\KK\STFPonto\src\bin\Release\netcoreapp2.0\src.pdb
+C:\X\KK\STFPonto\src\obj\Release\netcoreapp2.0\src.csproj.CoreCompileInputs.cache
+C:\X\KK\STFPonto\src\obj\Release\netcoreapp2.0\src.AssemblyInfoInputs.cache
+C:\X\KK\STFPonto\src\obj\Release\netcoreapp2.0\src.AssemblyInfo.cs
+C:\X\KK\STFPonto\src\obj\Release\netcoreapp2.0\src.dll
+C:\X\KK\STFPonto\src\obj\Release\netcoreapp2.0\src.pdb
